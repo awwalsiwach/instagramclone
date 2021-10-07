@@ -1,0 +1,40 @@
+a {
+  color: black !important;
+}
+
+.auth-card {
+  padding: 20px;
+  text-align: center;
+  max-width: 400px;
+  margin: 10px auto;
+}
+
+.mycard {
+  margin-top: 30px;
+}
+
+.gallery {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+}
+
+.item {
+  width: 30%;
+}
+
+.home-card {
+  max-width: 500px;
+  height: max-content;
+  margin: 26px auto;
+}
+
+#toast-container {
+  top: 50px !important;
+  right: 0px;
+  left: auto !important;
+}
+
+.material-icons:hover {
+  cursor: pointer;
+}
